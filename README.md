@@ -1,3 +1,3 @@
-# Antiratna kampanja web stranica
+# Web stranica Antiratne kampanje
 
-Ovdje se nalazi kopija / arhiva ARK web stranice.
+Kopija / arhiva nekadašnje ARK web stranice koju je pogonio Drupal 7.
